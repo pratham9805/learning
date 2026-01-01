@@ -9,6 +9,7 @@ int main(){
             cout<<col<<" ";
         }
         cout<<endl;
+        cout<<"Welcome";
         
     }
 
